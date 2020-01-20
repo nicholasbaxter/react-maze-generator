@@ -1,11 +1,11 @@
 # React Maze Generator (Recursive backtracker / Depth first search)
 
-An implementation of a recursive backtracker algorithm, made to generate a maze. Made in React.
+A maze generator, implementated via a recursive backtracker algorithm. Made in React.
 
 ### To-dos
 
-- Drop end point (and start) && in different colours
-- To make horizontal or vertical bias: could preload the grid with a sleleton
+- Drop start and end point && in different colours
+- To make horizontal or vertical bias: could preload the grid with a skeleton
 
 ---
 
