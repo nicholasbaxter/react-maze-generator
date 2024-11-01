@@ -2,11 +2,6 @@
 
 A maze generator, implementated via a recursive backtracker algorithm. Made in React.
 
-### To-dos
-
-- Drop start and end point && in different colours
-- To make horizontal or vertical bias: could preload the grid with a skeleton
-
 ---
 
 ### `npm i`
